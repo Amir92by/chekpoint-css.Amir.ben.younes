@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Helvetica neue, roboto;
+}
+
+nav,footer{
+    /* margin-top: 0; */
+    background-color: #343a40;
+    padding: 20px ;
+    color: white;}
+    
+    li{
+        display: inline-block;
+    }
+   
+    a{
+   
+        padding: 20px;
+        color: white;
+        text-decoration: none;
+    }
+
+img{
+width: 800px;}
+
+
+section{
+    background-color: wheat;
+    width: 80%;
+    margin: auto;
+}
+
+h2{
+    color: white;
+    background-color:#343a40;
+    border-radius:10px 100px;
+    margin: auto;
+    width: 20%;
+    padding: 5px 0px;
+    
+}
+span{
+    color: green;
+    font-weight: bold;
+}
+
+/* ************section: About me********* */
+
+table{
+    margin: auto;
+}
+/* ************section: Skills********* */
+ol li {
+    display: block;
+}
+/* ************section: team work********* */
+
+div>img {
+    width: 30%;
+    border-radius: 15px;
+    margin: 5px;
+}
+.none
+   {
+display: none;
+}
+
+form{
+    width: 20%;
+    margin: auto;
+}
